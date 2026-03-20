@@ -1,0 +1,21 @@
+id,name,age,marks,department,joining_date
+101,Aarav Sharma,20,85,IT,2023-01-15
+102,Priya Patel,,92,HR,2023-02-10
+103,Ishan Gupta,19,78,FINANCE,2023-01-20
+104,Ananya Singh,22,500,Marketing,2023-03-05
+105,Vihaan Shah,20,95,it,2023-01-12
+106,Meera Reddy,21,,Operations,2023-04-01
+107,Arjun Verma,19,81,Finance,22-01-2023
+108,Sanya Malhotra,22,89,HR,2023-02-15
+109,Rohan Das,200,67,Sales,2023-05-10
+110,Kriti Joshi,21,91,IT,
+111,Aditya Bose,19,76,marketing,2023-03-12
+112,Zara Khan,22,84,Operations,2023-04-05
+113,Siddharth Nair,20,93,Sales,2023-05-12
+114,Diya Iyer,,82,Finance,2023-01-25
+115,Karan Gill,19,70,IT,2023-01-18
+116,Ishani Choudhury,22,96,HR,2023-02-20
+117,Rahul Mehta,26,73,Sales,2023-05-15
+118,Tanvi Jain,21,87,Marketing,2023-03-20
+119,Manav Malhotra,19,65,Operations,2023-04-10
+120,Sneha Kapoor,22,90,IT,2023-01-22
