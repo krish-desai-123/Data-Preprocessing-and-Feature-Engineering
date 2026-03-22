@@ -1,34 +1,40 @@
-<h1 align="center">📊 Data Profiler: Customer Churn EDA & Preprocessing</h1>
 
-<p align="center">
-  <em>A comprehensive Data Preprocessing, Feature Engineering, and Exploratory Data Analysis (EDA) pipeline to transform multi-source raw data into ML-ready insights. 🚀</em>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
+# 📊 Automated Data Profiling: PR_1 🚀
+
+**A hands-on implementation of automated exploratory data analysis (EDA) across multiple data formats.**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Data Analysis](https://img.shields.io/badge/Data_Analysis-success?style=for-the-badge)](#)
+
+</div>
+
+<br>
+
+## 🌟 About the Repository
+
+Welcome to Practical 1 (PR_1)! This section focuses on the crucial first step of any data project: understanding your data. This repository demonstrates how to ingest data from various sources (CSV, JSON, SQLite) and automatically generate a comprehensive, interactive HTML report summarizing the dataset's characteristics, missing values, and distributions.
+
+**Topics:** `python` `data-profiling` `pandas-profiling` `exploratory-data-analysis` `eda` `data-science` `jupyter-notebook`
 
 ---
 
-## 🎯 Project Objective
-
-In the modern data ecosystem, information rarely lives in a single place. This project simulates a real-world scenario as a Junior Data Analyst for a consumer insights company. 
-
-The primary goal is to **frame a machine learning problem (predicting customer churn)** and perform robust data preprocessing and profiling on customer purchase behavior data collected across multiple formats (CSV, JSON, SQL). 
-
 ## 📂 Repository Structure
 
-This repository contains all the scripts, datasets, and notebooks used in the analysis:
+The repository is organized as follows:
 
-* **`data_gen.py`** 🐍: A Python script used to generate the synthetic, multi-format datasets.
-* **`data_profiler.ipynb`** 📓: The core Jupyter Notebook containing the end-to-end data pipeline (Acquisition, Cleaning, EDA, and Feature interactions).
-* **`customer_data1.csv`** 📄: Raw customer data subset (CSV format).
-* **`customer_data2.json`** ｛｝: Raw customer data subset (JSON format).
-* **`customer_data.db`** 🗄️: Raw customer data subset (SQLite Database format).
-* **`customers_data_report.html`** 📈: The automated, interactive Pandas Profiling report summarizing data quality, missing values, and correlations.
+```text
+📦 PR_1
+ ┣ 📜 customer_data.db         # Sample dataset in SQLite database format
+ ┣ 📜 customer_data1.csv       # Sample dataset in CSV format
+ ┣ 📜 customer_data2.json      # Sample dataset in JSON format
+ ┣ 📜 data_profiler.ipynb      # Main Jupyter Notebook containing the profiling logic
+ ┣ 📜 customers_data_report.html # The generated interactive EDA report
+ ┗ 📜 readme.md                # This file
+```
+
+---
 
 ## 🛠️ Key Features & Workflow
 
@@ -49,6 +55,9 @@ This repository contains all the scripts, datasets, and notebooks used in the an
 ### 4. Automated Data Profiling ⚙️
 * Generated a comprehensive, shareable HTML report detailing descriptive statistics, data quality warnings, and variable correlations.
 
+---
+
+
 ## 📊 Results & Output
 
 * **Cleaned Dataset:** A unified dataset ready for predictive modeling (Churn Classification).
@@ -56,6 +65,47 @@ This repository contains all the scripts, datasets, and notebooks used in the an
 * **Profiling Report:** Open `customers_data_report.html` in any web browser for a full statistical breakdown of the dataset.
 
 ---
-<p align="center">
-  <i>"Transforming raw data into predictive power, one dataset at a time. 💡"</i>
-</p>
+
+## ⚙️ Getting Started
+
+Want to run this project on your local machine and generate your own reports? Follow these simple steps:
+
+### 1. Clone the Repository
+
+Open your terminal or command prompt and run:
+
+```bash id="96ho3z"
+git clone https://github.com/krish-desai-123/Data-Preprocessing-and-Feature-Engineering.git
+cd Data-Preprocessing-and-Feature-Engineering/PR_1
+```
+
+### 2. Run the Code
+
+Make sure you have Python installed. You will need a few essential libraries to run the profiler.
+
+```bash id="s2ghx0"
+# Install required libraries
+pip install pandas ydata-profiling jupyter
+
+# Launch the interactive notebook
+jupyter notebook
+```
+
+Open `data_profiler.ipynb` and run the cells to generate the HTML report!
+
+---
+
+
+
+## 👨‍💻 Author
+
+**Krish Desai**  
+
+GitHub: [@krish-desai-123](https://github.com/krish-desai-123)
+
+---
+
+<div align="center">
+<i>If you found this repository helpful or learned something new, consider giving it a ⭐!</i>
+</div>
+```
