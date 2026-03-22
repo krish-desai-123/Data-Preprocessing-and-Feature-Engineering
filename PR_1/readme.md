@@ -12,9 +12,11 @@
 
 <br>
 
-## 🌟 About the Repository
+## 🎯 Project Objective
 
-Welcome to Practical 1 (PR_1)! This section focuses on the crucial first step of any data project: understanding your data. This repository demonstrates how to ingest data from various sources (CSV, JSON, SQLite) and automatically generate a comprehensive, interactive HTML report summarizing the dataset's characteristics, missing values, and distributions.
+In the modern data ecosystem, information rarely lives in a single place. This project simulates a real-world scenario as a Junior Data Analyst for a consumer insights company. 
+
+The primary goal is to **frame a machine learning problem (predicting customer churn)** and perform robust data preprocessing and profiling on customer purchase behavior data collected across multiple formats (CSV, JSON, SQL). 
 
 **Topics:** `python` `data-profiling` `pandas-profiling` `exploratory-data-analysis` `eda` `data-science` `jupyter-notebook`
 
