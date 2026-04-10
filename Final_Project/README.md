@@ -1,4 +1,5 @@
-# <center>🧠 Holistic Data Preparer: Final_Project 
+<div align="center">
+# 🧠 Holistic Data Preparer: Final_Project 
 
 > A comprehensive, end-to-end implementation of data preprocessing and feature engineering for a **Credit Risk / Loan Default** classification problem — built from multi-source data across CSV, JSON, and SQL.
 
@@ -7,8 +8,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E?logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-
 ---
+</div>
 
 ## 📌 Project Objective
 
