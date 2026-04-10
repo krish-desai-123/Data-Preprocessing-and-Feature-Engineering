@@ -1,4 +1,4 @@
-# <center>🧠 Holistic Data Preparer: Final_Project </center>
+# <center>🧠 Holistic Data Preparer: Final_Project 
 
 > A comprehensive, end-to-end implementation of data preprocessing and feature engineering for a **Credit Risk / Loan Default** classification problem — built from multi-source data across CSV, JSON, and SQL.
 
